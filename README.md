@@ -12,9 +12,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;보름달 서비스는 모바일 애플리케이션과 NUGU 스피커 두 가지의 방법으로 사용할 수 있다. 
 
 ![](https://images.velog.io/images/passengers/post/0c970a9c-08f6-4e12-92f9-c62891cf0a72/image.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;보름달 서비스의 데이터베이스 구조이다.
 
 ![](https://images.velog.io/images/passengers/post/8ce1ca97-0b83-4cce-a5c9-aed7e39304bd/image.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;보름달 서비스의 디렉토리 구조이다.
 
 ### 📍 애플리케이션
