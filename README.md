@@ -36,9 +36,7 @@
 자세한 설명은 [백엔드 문서](https://github.com/Passengers-HY/Backend/blob/develop/README.md) 참고.
 
 ### 📍 영상
-<iframe width="768" height="430" src="https://www.youtube.com/embed/v5cAbyV89pA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="768" height="430" src="https://www.youtube.com/embed/W_pEMENwWLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![]("https://www.youtube.com/embed/v5cAbyV89pA")
 
 ### 📍 팀원
 
