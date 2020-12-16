@@ -8,14 +8,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;달과 여성의 생리 주기는 상당한 관련이 있다는 연구 결과를 토대로 '보름달'이라는 이름을 짓게 되었다. 달의 밝기는 여성의 생리 주기를 조절하는 멜라토닌 호르몬의 분비에 직접적인 영향을 미치며, 달의 삭과 망이 생리 주기의 반복과 비슷하다.
 
 ### 📍 구조
-![](https://images.velog.io/images/passengers/post/a8bd86bc-7a3c-4fe7-a5ff-fc8dcd3021ed/image.png)
+![](https://images.velog.io/images/passengers/post/a8bd86bc-7a3c-4fe7-a5ff-fc8dcd3021ed/image.png)</br>
 &nbsp;&nbsp;&nbsp;&nbsp;보름달 서비스는 모바일 애플리케이션과 NUGU 스피커 두 가지의 방법으로 사용할 수 있다. 
 
-![](https://images.velog.io/images/passengers/post/0c970a9c-08f6-4e12-92f9-c62891cf0a72/image.png)
+![](https://images.velog.io/images/passengers/post/0c970a9c-08f6-4e12-92f9-c62891cf0a72/image.png)</br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;보름달 서비스의 데이터베이스 구조이다.
 
-![](https://images.velog.io/images/passengers/post/8ce1ca97-0b83-4cce-a5c9-aed7e39304bd/image.png)
+![](https://images.velog.io/images/passengers/post/8ce1ca97-0b83-4cce-a5c9-aed7e39304bd/image.png)</br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;보름달 서비스의 디렉토리 구조이다.
 
@@ -34,9 +34,6 @@
 ![](https://images.velog.io/images/passengers/post/bdd16a08-7014-44a4-a58e-a09cb09f925b/image.png)
 </br>
 자세한 설명은 [백엔드 문서](https://github.com/Passengers-HY/Backend/blob/develop/README.md) 참고.
-
-### 📍 영상
-![]("https://www.youtube.com/embed/v5cAbyV89pA")
 
 ### 📍 팀원
 
